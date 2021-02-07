@@ -1,7 +1,7 @@
 # Machine Learning and Data Analyse
 Уважаемый гость, в данной репозитории вы можете ознакомиться с моими работами по анализу данных и машинному обучению.
 
-(p.s. для просмотра ноутбуков, переходите по сссылке :wink:)
+p.s. для просмотра ноутбуков, переходите по сссылке :wink:
 
 # Data Analysis
 ## [Анализ результатов АБ-теста](https://nbviewer.jupyter.org/github/EuMentality/ML-DA/blob/main/notebooks/yandex_ab_test_analyse.ipynb)
